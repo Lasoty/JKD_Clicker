@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JKD_Clicker": {
+      "commandName": "Project",
+      "commandLineArgs": "-v"
+    }
+  }
+}
